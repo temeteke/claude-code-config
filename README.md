@@ -1,5 +1,7 @@
 # Claude Code Configuration
 
+> **Deprecated:** This repository is no longer maintained. Claude Code configuration is now managed by [agent-config](https://github.com/temeteke/agent-config).
+
 Claude Codeの設定ファイルを管理するためのリポジトリです。
 
 ## 概要
